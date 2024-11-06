@@ -4,7 +4,7 @@ This repositiry showcases a powerBI vitualization setup using DirectQuery and Co
 
 ## Table of Contents
 1. [overview](#overview)
-2. [data sources](#data-sources)
+2. [data sources](#data-sources) 
 3. [tools used](#tools-used)
 4. [data cleaning](#data-cleaning)
 5. [exploration data analysis](#exploration-data-analysis)
