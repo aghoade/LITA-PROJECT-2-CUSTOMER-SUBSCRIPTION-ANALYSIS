@@ -1,5 +1,5 @@
 # LITA-PROJECT-2-CUSTOMER-SUBSCRIPTION-ANALYSIS
-This project is to analyze customer subscription patterns to identify segments and trends.
+This project is to analyze customer subscription patterns to identify segments and trends. 
 This repositiry showcases a powerBI vitualization setup using DirectQuery and Composite Models for customer subscrition patterns.
 
 ## Table of Contents
